@@ -1,5 +1,7 @@
 Created by: Jasper M.C. Denissen
+
 Date: 2026-11-02
+
 email: jasper.denissen@ufz.de
 
 # 2-week coding challenge
